@@ -4,7 +4,7 @@ Mixe en direct avec **Virtual DJ** sur la radio de la TEAM XDK : **https://radio
 **🎧・DJ LIVE** du Discord XDK TEAM GAMES.
 
 ## ⬇️ Télécharger
-**[XDK-Musique.exe (dernière version)](https://github.com/xavstream/XDK-Musique-releases/releases/latest/download/XDK-Musique.exe)**
+**[XDK-Musique.exe (dernière version)](https://github.com/XDK-Vito/XDK-Musique-releases/releases/latest/download/XDK-Musique.exe)**
 — Windows 10 / 11 (64 bits), un seul fichier, rien à installer.
 
 Au premier lancement, Windows peut afficher « Windows a protégé votre ordinateur » : clique sur
